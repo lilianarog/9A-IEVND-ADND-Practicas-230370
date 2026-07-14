@@ -11,3 +11,4 @@ Este repositotio contiene los resultados de las practicas de la materia para ten
 |---|---|---|---|
 |1.|[Introduccion al uso de Python en el analisis de datos](Practica02/PRACTICA02__230370.ipynb)|37|Revisada|
 |2.|[Analisis exploratorio de datos con Python y Jupyter usando Dataset de Amazon](Practica04/Practica-230370.ipynb)|16|Revisada|
+|3.|[Análisis Exploratorio de Datos en un contexto real, de la plataforma DonorsChoose.com](Practica05/Practica05.ipynb)|63|Revisada|
